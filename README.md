@@ -16,6 +16,7 @@ Programming Language: Java
 	Scope of Assignment:
 
 The assignment is divided into 5 modules:
+
 	1. PACKET INFORMATION Module:
 		It gives details about attributes like Packet Capture Date, Time and
 		Length(Bytes).
