@@ -4,6 +4,7 @@ NetworkPacketAnalyser
 Input File: tcp-ecn-sample.pcap
 
 Free & Open Source Library Used:
+
 	1. Jpcap (Java Library for Analysing, Capturing and Sending Network Packets)[
 	http://netresearch.ics.uci.edu/kfujii/Jpcap/doc/index.html]
 
@@ -13,9 +14,9 @@ Free & Open Source Library Used:
 Programming Language: Java
 	
 	Operaring System: Any OS(Linux, Windows, etc.) with Java Support.
-	Scope of Assignment:
-
-The assignment is divided into 5 modules:
+	
+	
+Scope of Assignment: It is divided into 5 modules:
 
 	1. PACKET INFORMATION Module:
 		It gives details about attributes like Packet Capture Date, Time and
