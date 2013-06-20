@@ -1,0 +1,754 @@
+run:
+1.PACKET SUMMARY
+ 
+2.SELECTED PACKET INFORMATION
+ 
+3.ANALYSIS
+
+4.Exit
+ 
+
+ENTER YOUR CHOICE
+1
+PACKET SUMMARY 
+
+NO 0  1303496629:238845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30277) TCP 46557 > 80 seq(179265614) win(4128)  S
+NO 1  1303496629:609845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(404) TCP 80 > 46557 seq(2798152218) win(4128) ack 179265615  S
+NO 2  1303496629:690845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30278) TCP 46557 > 80 seq(179265615) win(4128) ack 2798152219 
+NO 3  1303496629:700845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30279) TCP 46557 > 80 seq(179265615) win(4128) ack 2798152219 
+NO 4  1303496630:151845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(405) TCP 80 > 46557 seq(2798152219) win(3967) ack 179265776 
+NO 5  1303496630:222845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30280) TCP 46557 > 80 seq(179265776) win(3872) ack 2798152475 
+NO 6  1303496630:640845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(406) TCP 80 > 46557 seq(2798152475) win(3967) ack 179265776 
+NO 7  1303496630:682845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30281) TCP 46557 > 80 seq(179265776) win(3591) ack 2798152756 
+NO 8  1303496630:688845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(407) TCP 80 > 46557 seq(2798152756) win(3967) ack 179265776 
+NO 9  1303496630:742845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30282) TCP 46557 > 80 seq(179265776) win(4128) ack 2798152756 
+NO 10  1303496630:762845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30283) TCP 46557 > 80 seq(179265776) win(3616) ack 2798153268 
+NO 11  1303496631:90845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(408) TCP 80 > 46557 seq(2798153268) win(3967) ack 179265776 
+NO 12  1303496631:163845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(409) TCP 80 > 46557 seq(2798153804) win(3967) ack 179265776 
+NO 13  1303496631:163845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30284) TCP 46557 > 80 seq(179265776) win(3080) ack 2798153804 
+NO 14  1303496631:203845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30285) TCP 46557 > 80 seq(179265776) win(4128) ack 2798153804 
+NO 15  1303496631:214845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30286) TCP 46557 > 80 seq(179265776) win(3592) ack 2798154340 
+NO 16  1303496631:223845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30287) TCP 46557 > 80 seq(179265776) win(4128) ack 2798154340 
+NO 17  1303496631:315845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(410) TCP 80 > 46557 seq(2798154340) win(3967) ack 179265776 
+NO 18  1303496631:323845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30288) TCP 46557 > 80 seq(179265776) win(3614) ack 2798154854 
+NO 19  1303496631:655845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(411) TCP 80 > 46557 seq(2798154854) win(3967) ack 179265776 
+NO 20  1303496631:663845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30289) TCP 46557 > 80 seq(179265776) win(3078) ack 2798155390 
+NO 21  1303496631:673845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30290) TCP 46557 > 80 seq(179265776) win(4128) ack 2798155390 
+NO 22  1303496632:10845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(412) TCP 80 > 46557 seq(2798155390) win(3967) ack 179265776 
+NO 23  1303496632:63845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30291) TCP 46557 > 80 seq(179265776) win(3592) ack 2798155926 
+NO 24  1303496632:109845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(413) TCP 80 > 46557 seq(2798155926) win(3967) ack 179265776 
+NO 25  1303496632:155845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30292) TCP 46557 > 80 seq(179265776) win(4128) ack 2798155926 
+NO 26  1303496632:165845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30293) TCP 46557 > 80 seq(179265776) win(3592) ack 2798156462 
+NO 27  1303496632:175845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30294) TCP 46557 > 80 seq(179265776) win(4128) ack 2798156462 
+NO 28  1303496632:792845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(414) TCP 80 > 46557 seq(2798156462) win(3967) ack 179265776 
+NO 29  1303496632:855845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30295) TCP 46557 > 80 seq(179265776) win(3592) ack 2798156998 
+NO 30  1303496632:905845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30296) TCP 46557 > 80 seq(179265776) win(4128) ack 2798156998 
+NO 31  1303496633:566845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(415) TCP 80 > 46557 seq(2798156998) win(3967) ack 179265776 
+NO 32  1303496633:630845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(416) TCP 80 > 46557 seq(2798157534) win(3967) ack 179265776 
+NO 33  1303496633:656845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30297) TCP 46557 > 80 seq(179265776) win(3592) ack 2798157534 
+NO 34  1303496633:668845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30298) TCP 46557 > 80 seq(179265776) win(3056) ack 2798158070 
+NO 35  1303496633:676845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30299) TCP 46557 > 80 seq(179265776) win(3592) ack 2798158070 
+NO 36  1303496633:697845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30300) TCP 46557 > 80 seq(179265776) win(4128) ack 2798158070 
+NO 37  1303496634:406845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(417) TCP 80 > 46557 seq(2798158070) win(3967) ack 179265776 
+NO 38  1303496634:437845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(418) TCP 80 > 46557 seq(2798158606) win(3967) ack 179265776 
+NO 39  1303496634:467845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30301) TCP 46557 > 80 seq(179265776) win(3592) ack 2798158606 
+NO 40  1303496634:498845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30302) TCP 46557 > 80 seq(179265776) win(3056) ack 2798159142 
+NO 41  1303496634:512845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30303) TCP 46557 > 80 seq(179265776) win(3592) ack 2798159142 
+NO 42  1303496634:516845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30304) TCP 46557 > 80 seq(179265776) win(4128) ack 2798159142 
+NO 43  1303496635:247845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(419) TCP 80 > 46557 seq(2798159142) win(3967) ack 179265776 
+NO 44  1303496635:326845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30305) TCP 46557 > 80 seq(179265776) win(3592) ack 2798159678 
+NO 45  1303496635:339845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30306) TCP 46557 > 80 seq(179265776) win(4128) ack 2798159678 
+NO 46  1303496636:30845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(420) TCP 80 > 46557 seq(2798159678) win(3967) ack 179265776 
+NO 47  1303496636:61845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(416) TCP 80 > 46557 seq(2798160214) win(3967) ack 179265776 
+NO 48  1303496636:108845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30307) TCP 46557 > 80 seq(179265776) win(3592) ack 2798160214 
+NO 49  1303496636:109845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30308) TCP 46557 > 80 seq(179265776) win(3056) ack 2798160750 
+NO 50  1303496636:133845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30309) TCP 46557 > 80 seq(179265776) win(3592) ack 2798160750 
+NO 51  1303496636:134845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30310) TCP 46557 > 80 seq(179265776) win(4128) ack 2798160750 
+NO 52  1303496636:715845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(417) TCP 80 > 46557 seq(2798160750) win(3967) ack 179265776 
+NO 53  1303496636:783845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30311) TCP 46557 > 80 seq(179265776) win(3592) ack 2798161286 
+NO 54  1303496636:818845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30312) TCP 46557 > 80 seq(179265776) win(4128) ack 2798161286 
+NO 55  1303496636:901845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(418) TCP 80 > 46557 seq(2798161286) win(3967) ack 179265776 
+NO 56  1303496636:943845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30313) TCP 46557 > 80 seq(179265776) win(3592) ack 2798161822 
+NO 57  1303496636:959845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30314) TCP 46557 > 80 seq(179265776) win(4128) ack 2798161822 
+NO 58  1303496637:532845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(419) TCP 80 > 46557 seq(2798161822) win(3967) ack 179265776 
+NO 59  1303496637:611845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30315) TCP 46557 > 80 seq(179265776) win(3592) ack 2798162358 
+NO 60  1303496637:630845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(420) TCP 80 > 46557 seq(2798162358) win(3967) ack 179265776 
+NO 61  1303496637:647845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30316) TCP 46557 > 80 seq(179265776) win(4128) ack 2798162358 
+NO 62  1303496637:683845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30317) TCP 46557 > 80 seq(179265776) win(3592) ack 2798162894 
+NO 63  1303496637:717845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30318) TCP 46557 > 80 seq(179265776) win(4128) ack 2798162894 
+NO 64  1303496638:353845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(421) TCP 80 > 46557 seq(2798162894) win(3967) ack 179265776 
+NO 65  1303496638:502845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30319) TCP 46557 > 80 seq(179265776) win(3592) ack 2798163430 
+NO 66  1303496638:565845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30320) TCP 46557 > 80 seq(179265776) win(4128) ack 2798163430 
+NO 67  1303496639:141845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(422) TCP 80 > 46557 seq(2798163430) win(3967) ack 179265776 
+NO 68  1303496639:211845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(423) TCP 80 > 46557 seq(2798163966) win(3967) ack 179265776 
+NO 69  1303496639:289845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30321) TCP 46557 > 80 seq(179265776) win(3592) ack 2798163966 
+NO 70  1303496639:318845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30322) TCP 46557 > 80 seq(179265776) win(3056) ack 2798164502 
+NO 71  1303496639:371845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30323) TCP 46557 > 80 seq(179265776) win(3592) ack 2798164502 
+NO 72  1303496639:395845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30324) TCP 46557 > 80 seq(179265776) win(4128) ack 2798164502 
+NO 73  1303496639:952845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(424) TCP 80 > 46557 seq(2798164502) win(3967) ack 179265776 
+NO 74  1303496640:33845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30325) TCP 46557 > 80 seq(179265776) win(3592) ack 2798165038 
+NO 75  1303496640:78845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30326) TCP 46557 > 80 seq(179265776) win(4128) ack 2798165038 
+NO 76  1303496640:753845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(425) TCP 80 > 46557 seq(2798165038) win(3967) ack 179265776 
+NO 77  1303496640:800845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(426) TCP 80 > 46557 seq(2798165574) win(3967) ack 179265776 
+NO 78  1303496640:821845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30327) TCP 46557 > 80 seq(179265776) win(3592) ack 2798165574 
+NO 79  1303496640:856845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30328) TCP 46557 > 80 seq(179265776) win(3056) ack 2798166110 
+NO 80  1303496640:888845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30329) TCP 46557 > 80 seq(179265776) win(3592) ack 2798166110 
+NO 81  1303496640:921845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30330) TCP 46557 > 80 seq(179265776) win(4128) ack 2798166110 
+NO 82  1303496641:648845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(427) TCP 80 > 46557 seq(2798166110) win(3967) ack 179265776 
+NO 83  1303496641:707845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(428) TCP 80 > 46557 seq(2798166646) win(3967) ack 179265776 
+NO 84  1303496641:721845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30331) TCP 46557 > 80 seq(179265776) win(3592) ack 2798166646 
+NO 85  1303496641:747845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30332) TCP 46557 > 80 seq(179265776) win(3056) ack 2798167182 
+NO 86  1303496641:800845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30333) TCP 46557 > 80 seq(179265776) win(3592) ack 2798167182 
+NO 87  1303496641:818845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30334) TCP 46557 > 80 seq(179265776) win(4128) ack 2798167182 
+NO 88  1303496642:382845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(429) TCP 80 > 46557 seq(2798167182) win(3967) ack 179265776 
+NO 89  1303496642:454845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30335) TCP 46557 > 80 seq(179265776) win(3592) ack 2798167718 
+NO 90  1303496642:481845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(430) TCP 80 > 46557 seq(2798167718) win(3967) ack 179265776 
+NO 91  1303496642:488845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30336) TCP 46557 > 80 seq(179265776) win(4128) ack 2798167718 
+NO 92  1303496642:521845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30337) TCP 46557 > 80 seq(179265776) win(3592) ack 2798168254 
+NO 93  1303496642:554845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30338) TCP 46557 > 80 seq(179265776) win(4128) ack 2798168254 
+NO 94  1303496643:165845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(431) TCP 80 > 46557 seq(2798168254) win(3967) ack 179265776 
+NO 95  1303496643:263845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30339) TCP 46557 > 80 seq(179265776) win(3592) ack 2798168790 
+NO 96  1303496643:273845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30340) TCP 46557 > 80 seq(179265776) win(4128) ack 2798168790 
+NO 97  1303496643:937845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(432) TCP 80 > 46557 seq(2798168790) win(3967) ack 179265776 
+NO 98  1303496644:26845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30341) TCP 46557 > 80 seq(179265776) win(3592) ack 2798169326 
+NO 99  1303496644:53845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30342) TCP 46557 > 80 seq(179265776) win(4128) ack 2798169326 
+NO 100  1303496644:68845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(433) TCP 80 > 46557 seq(2798169326) win(3967) ack 179265776 
+NO 101  1303496644:87845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30343) TCP 46557 > 80 seq(179265776) win(3592) ack 2798169862 
+NO 102  1303496644:120845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30344) TCP 46557 > 80 seq(179265776) win(4128) ack 2798169862 
+NO 103  1303496644:810845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(434) TCP 80 > 46557 seq(2798169862) win(3967) ack 179265776 
+NO 104  1303496644:890845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30345) TCP 46557 > 80 seq(179265776) win(3592) ack 2798170398 
+NO 105  1303496644:952845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30346) TCP 46557 > 80 seq(179265776) win(4128) ack 2798170398 
+NO 106  1303496644:973845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(435) TCP 80 > 46557 seq(2798170398) win(3967) ack 179265776 
+NO 107  1303496645:46845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30347) TCP 46557 > 80 seq(179265776) win(3592) ack 2798170934 
+NO 108  1303496645:116845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30348) TCP 46557 > 80 seq(179265776) win(4128) ack 2798170934 
+NO 109  1303496645:587845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(436) TCP 80 > 46557 seq(2798170934) win(3967) ack 179265776 
+NO 110  1303496645:624845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30349) TCP 46557 > 80 seq(179265776) win(3592) ack 2798171470 
+NO 111  1303496645:660845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30350) TCP 46557 > 80 seq(179265776) win(4128) ack 2798171470 
+NO 112  1303496646:419845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(437) TCP 80 > 46557 seq(2798171470) win(3967) ack 179265776 
+NO 113  1303496646:441845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(438) TCP 80 > 46557 seq(2798172006) win(3967) ack 179265776 
+NO 114  1303496646:500845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30351) TCP 46557 > 80 seq(179265776) win(3592) ack 2798172006 
+NO 115  1303496646:539845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30352) TCP 46557 > 80 seq(179265776) win(3056) ack 2798172542 
+NO 116  1303496646:610845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30353) TCP 46557 > 80 seq(179265776) win(3592) ack 2798172542 
+NO 117  1303496646:699845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30354) TCP 46557 > 80 seq(179265776) win(4128) ack 2798172542 
+NO 118  1303496647:144845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(439) TCP 80 > 46557 seq(2798172542) win(3967) ack 179265776 
+NO 119  1303496647:213845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(440) TCP 80 > 46557 seq(2798173078) win(3967) ack 179265776 
+NO 120  1303496647:228845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30355) TCP 46557 > 80 seq(179265776) win(3592) ack 2798173078 
+NO 121  1303496647:253845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30356) TCP 46557 > 80 seq(179265776) win(4128) ack 2798173078 
+NO 122  1303496647:298845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30357) TCP 46557 > 80 seq(179265776) win(3594) ack 2798173612 
+NO 123  1303496648:8845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(441) TCP 80 > 46557 seq(2798173612) win(3967) ack 179265776 
+NO 124  1303496648:99845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30358) TCP 46557 > 80 seq(179265776) win(3058) ack 2798174148 
+NO 125  1303496648:134845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30359) TCP 46557 > 80 seq(179265776) win(4128) ack 2798174148 
+NO 126  1303496648:718845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(442) TCP 80 > 46557 seq(2798174148) win(3967) ack 179265776 
+NO 127  1303496648:767845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(443) TCP 80 > 46557 seq(2798174684) win(3967) ack 179265776 
+NO 128  1303496648:827845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30360) TCP 46557 > 80 seq(179265776) win(3592) ack 2798174684 
+NO 129  1303496648:861845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30361) TCP 46557 > 80 seq(179265776) win(3060) ack 2798175216 
+NO 130  1303496648:900845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30362) TCP 46557 > 80 seq(179265776) win(3596) ack 2798175216 
+NO 131  1303496649:570845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(444) TCP 80 > 46557 seq(2798175216) win(3967) ack 179265776 
+NO 132  1303496649:652845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30363) TCP 46557 > 80 seq(179265776) win(3060) ack 2798175752 
+NO 133  1303496649:682845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30364) TCP 46557 > 80 seq(179265776) win(4128) ack 2798175752 
+NO 134  1303496649:682845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(445) TCP 80 > 46557 seq(2798175752) win(3967) ack 179265776 
+NO 135  1303496649:769845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30365) TCP 46557 > 80 seq(179265776) win(3592) ack 2798176288 
+NO 136  1303496649:827845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30366) TCP 46557 > 80 seq(179265776) win(4128) ack 2798176288 
+NO 137  1303496650:397845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(446) TCP 80 > 46557 seq(2798176288) win(3967) ack 179265776 
+NO 138  1303496650:479845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30367) TCP 46557 > 80 seq(179265776) win(3592) ack 2798176824 
+NO 139  1303496650:520845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30368) TCP 46557 > 80 seq(179265776) win(4128) ack 2798176824 
+NO 140  1303496651:137845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(447) TCP 80 > 46557 seq(2798176824) win(3967) ack 179265776 
+NO 141  1303496651:166845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(448) TCP 80 > 46557 seq(2798177360) win(3967) ack 179265776 
+NO 142  1303496651:201845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30369) TCP 46557 > 80 seq(179265776) win(3592) ack 2798177360 
+NO 143  1303496651:250845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30370) TCP 46557 > 80 seq(179265776) win(3056) ack 2798177896 
+NO 144  1303496651:270845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30371) TCP 46557 > 80 seq(179265776) win(3592) ack 2798177896 
+NO 145  1303496651:303845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30372) TCP 46557 > 80 seq(179265776) win(4128) ack 2798177896 
+NO 146  1303496651:971845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(449) TCP 80 > 46557 seq(2798177896) win(3967) ack 179265776 
+NO 147  1303496652:42845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(450) TCP 80 > 46557 seq(2798178432) win(3967) ack 179265776 
+NO 148  1303496652:49845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30373) TCP 46557 > 80 seq(179265776) win(3592) ack 2798178432 
+NO 149  1303496652:83845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30374) TCP 46557 > 80 seq(179265776) win(4128) ack 2798178432 
+NO 150  1303496652:117845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30375) TCP 46557 > 80 seq(179265776) win(3592) ack 2798178968 
+NO 151  1303496652:156845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30376) TCP 46557 > 80 seq(179265776) win(4128) ack 2798178968 
+NO 152  1303496652:805845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(451) TCP 80 > 46557 seq(2798178968) win(3967) ack 179265776 
+NO 153  1303496652:864845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30377) TCP 46557 > 80 seq(179265776) win(3592) ack 2798179504 
+NO 154  1303496652:897845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30378) TCP 46557 > 80 seq(179265776) win(4128) ack 2798179504 
+NO 155  1303496653:546845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(452) TCP 80 > 46557 seq(2798179504) win(3967) ack 179265776 
+NO 156  1303496653:621845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30379) TCP 46557 > 80 seq(179265776) win(3592) ack 2798180040 
+NO 157  1303496653:647845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(453) TCP 80 > 46557 seq(2798180040) win(3967) ack 179265776 
+NO 158  1303496653:655845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30380) TCP 46557 > 80 seq(179265776) win(4128) ack 2798180040 
+NO 159  1303496653:709845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30381) TCP 46557 > 80 seq(179265776) win(3702) ack 2798180466 
+NO 160  1303496654:346845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(454) TCP 80 > 46557 seq(2798180466) win(3967) ack 179265776 
+NO 161  1303496654:378845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(455) TCP 80 > 46557 seq(2798181002) win(3967) ack 179265776 
+NO 162  1303496654:438845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30382) TCP 46557 > 80 seq(179265776) win(3166) ack 2798181002 
+NO 163  1303496654:481845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30383) TCP 46557 > 80 seq(179265776) win(2630) ack 2798181538 
+NO 164  1303496654:518845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30384) TCP 46557 > 80 seq(179265776) win(3592) ack 2798181538 
+NO 165  1303496654:556845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30385) TCP 46557 > 80 seq(179265776) win(4128) ack 2798181538 
+NO 166  1303496655:170845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(456) TCP 80 > 46557 seq(2798181538) win(3967) ack 179265776 
+NO 167  1303496655:201845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(457) TCP 80 > 46557 seq(2798181679) win(3967) ack 179265776 
+NO 168  1303496655:301845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30386) TCP 46557 > 80 seq(179265776) win(3987) ack 2798181679 
+NO 169  1303496655:333845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30387) TCP 46557 > 80 seq(179265776) win(3451) ack 2798182215 
+NO 170  1303496655:367845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30388) TCP 46557 > 80 seq(179265776) win(4128) ack 2798182215 
+NO 171  1303496655:968845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(458) TCP 80 > 46557 seq(2798182215) win(3967) ack 179265776 
+NO 172  1303496655:990845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(459) TCP 80 > 46557 seq(2798182751) win(3967) ack 179265776 
+NO 173  1303496656:22845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30389) TCP 46557 > 80 seq(179265776) win(3592) ack 2798182751 
+NO 174  1303496656:55845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30390) TCP 46557 > 80 seq(179265776) win(3056) ack 2798183287 
+NO 175  1303496656:73845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30391) TCP 46557 > 80 seq(179265776) win(3592) ack 2798183287 
+NO 176  1303496656:106845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30392) TCP 46557 > 80 seq(179265776) win(4128) ack 2798183287 
+NO 177  1303496656:750845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(460) TCP 80 > 46557 seq(2798183287) win(3967) ack 179265776 
+NO 178  1303496656:800845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(461) TCP 80 > 46557 seq(2798183823) win(3967) ack 179265776 
+NO 179  1303496656:843845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30393) TCP 46557 > 80 seq(179265776) win(3592) ack 2798183823 
+NO 180  1303496656:883845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30394) TCP 46557 > 80 seq(179265776) win(3216) ack 2798184199 
+NO 181  1303496656:910845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30395) TCP 46557 > 80 seq(179265776) win(3752) ack 2798184199 
+NO 182  1303496657:539845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(462) TCP 80 > 46557 seq(2798184199) win(3967) ack 179265776 
+NO 183  1303496657:576845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(463) TCP 80 > 46557 seq(2798184239) win(3967) ack 179265776 
+NO 184  1303496657:610845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30396) TCP 46557 > 80 seq(179265776) win(3712) ack 2798184239 
+NO 185  1303496657:655845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30397) TCP 46557 > 80 seq(179265776) win(3176) ack 2798184775 
+NO 186  1303496657:677845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30398) TCP 46557 > 80 seq(179265776) win(4128) ack 2798184775 
+NO 187  1303496658:349845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(464) TCP 80 > 46557 seq(2798184775) win(3967) ack 179265776 
+NO 188  1303496658:379845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(465) TCP 80 > 46557 seq(2798185311) win(3967) ack 179265776 
+NO 189  1303496658:439845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30399) TCP 46557 > 80 seq(179265776) win(3592) ack 2798185311 
+NO 190  1303496658:474845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30400) TCP 46557 > 80 seq(179265776) win(3086) ack 2798185817 
+NO 191  1303496658:508845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30401) TCP 46557 > 80 seq(179265776) win(3622) ack 2798185817 
+NO 192  1303496659:155845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(466) TCP 80 > 46557 seq(2798185817) win(3967) ack 179265776 
+NO 193  1303496659:195845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(467) TCP 80 > 46557 seq(2798186353) win(3967) ack 179265776 
+NO 194  1303496659:256845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30402) TCP 46557 > 80 seq(179265776) win(3086) ack 2798186353 
+NO 195  1303496659:281845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30403) TCP 46557 > 80 seq(179265776) win(2709) ack 2798186730 
+NO 196  1303496659:317845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30404) TCP 46557 > 80 seq(179265776) win(3751) ack 2798186730 
+NO 197  1303496659:972845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(468) TCP 80 > 46557 seq(2798186730) win(3967) ack 179265776 
+NO 198  1303496660:98845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30405) TCP 46557 > 80 seq(179265776) win(3682) ack 2798186799 
+NO 199  1303496660:135845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(469) TCP 80 > 46557 seq(2798186799) win(3967) ack 179265776 
+NO 200  1303496660:279845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30406) TCP 46557 > 80 seq(179265776) win(3146) ack 2798187335 
+NO 201  1303496660:324845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30407) TCP 46557 > 80 seq(179265776) win(4128) ack 2798187335 
+NO 202  1303496660:824845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(470) TCP 80 > 46557 seq(2798187335) win(3967) ack 179265776 
+NO 203  1303496660:909845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(471) TCP 80 > 46557 seq(2798187871) win(3967) ack 179265776 
+NO 204  1303496660:936845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30408) TCP 46557 > 80 seq(179265776) win(3592) ack 2798187871 
+NO 205  1303496660:949845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30409) TCP 46557 > 80 seq(179265776) win(4128) ack 2798187871 
+NO 206  1303496661:845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30410) TCP 46557 > 80 seq(179265776) win(3621) ack 2798188378 
+NO 207  1303496661:524845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(472) TCP 80 > 46557 seq(2798188378) win(3967) ack 179265776 
+NO 208  1303496661:565845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(473) TCP 80 > 46557 seq(2798188914) win(3967) ack 179265776 
+NO 209  1303496661:648845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30411) TCP 46557 > 80 seq(179265776) win(3085) ack 2798188914 
+NO 210  1303496661:684845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30412) TCP 46557 > 80 seq(179265776) win(2708) ack 2798189291 
+NO 211  1303496661:718845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30413) TCP 46557 > 80 seq(179265776) win(3751) ack 2798189291 
+NO 212  1303496662:384845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(474) TCP 80 > 46557 seq(2798189291) win(3967) ack 179265776 
+NO 213  1303496662:461845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(475) TCP 80 > 46557 seq(2798189359) win(3967) ack 179265776 
+NO 214  1303496662:478845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30414) TCP 46557 > 80 seq(179265776) win(3683) ack 2798189359 
+NO 215  1303496662:537845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30415) TCP 46557 > 80 seq(179265776) win(3147) ack 2798189895 
+NO 216  1303496662:573845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30416) TCP 46557 > 80 seq(179265776) win(4128) ack 2798189895 
+NO 217  1303496662:589845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(476) TCP 80 > 46557 seq(2798189895) win(3967) ack 179265776 
+NO 218  1303496662:608845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30417) TCP 46557 > 80 seq(179265776) win(3592) ack 2798190431 
+NO 219  1303496662:643845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30418) TCP 46557 > 80 seq(179265776) win(4128) ack 2798190431 
+NO 220  1303496663:139845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(477) TCP 80 > 46557 seq(2798190431) win(3967) ack 179265776 
+NO 221  1303496663:237845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30419) TCP 46557 > 80 seq(179265776) win(3592) ack 2798190967 
+NO 222  1303496663:263845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30420) TCP 46557 > 80 seq(179265776) win(4128) ack 2798190967 
+NO 223  1303496664:191845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(478) TCP 80 > 46557 seq(2798190967) win(3967) ack 179265776 
+NO 224  1303496664:264845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(479) TCP 80 > 46557 seq(2798191503) win(3967) ack 179265776 
+NO 225  1303496664:299845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30421) TCP 46557 > 80 seq(179265776) win(3592) ack 2798191503 
+NO 226  1303496664:349845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30422) TCP 46557 > 80 seq(179265776) win(3215) ack 2798191880 
+NO 227  1303496664:374845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30423) TCP 46557 > 80 seq(179265776) win(3751) ack 2798191880 
+NO 228  1303496664:829845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(480) TCP 80 > 46557 seq(2798191880) win(3967) ack 179265776 
+NO 229  1303496664:843845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(481) TCP 80 > 46557 seq(2798192416) win(3967) ack 179265776 
+NO 230  1303496664:898845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30424) TCP 46557 > 80 seq(179265776) win(3215) ack 2798192416 
+NO 231  1303496664:929845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30425) TCP 46557 > 80 seq(179265776) win(2679) ack 2798192952 
+NO 232  1303496664:962845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30426) TCP 46557 > 80 seq(179265776) win(3592) ack 2798192952 
+NO 233  1303496664:996845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30427) TCP 46557 > 80 seq(179265776) win(4128) ack 2798192952 
+NO 234  1303496665:533845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(482) TCP 80 > 46557 seq(2798192952) win(3967) ack 179265776 
+NO 235  1303496665:543845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(483) TCP 80 > 46557 seq(2798193199) win(3967) ack 179265776 
+NO 236  1303496665:580845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30428) TCP 46557 > 80 seq(179265776) win(3881) ack 2798193199 
+NO 237  1303496665:613845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30429) TCP 46557 > 80 seq(179265776) win(3345) ack 2798193735 
+NO 238  1303496665:646845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30430) TCP 46557 > 80 seq(179265776) win(4128) ack 2798193735 
+NO 239  1303496666:332845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(484) TCP 80 > 46557 seq(2798193735) win(3967) ack 179265776 
+NO 240  1303496666:342845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(485) TCP 80 > 46557 seq(2798194271) win(3967) ack 179265776 
+NO 241  1303496666:403845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30431) TCP 46557 > 80 seq(179265776) win(3592) ack 2798194271 
+NO 242  1303496666:439845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30432) TCP 46557 > 80 seq(179265776) win(3084) ack 2798194779 
+NO 243  1303496666:477845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30433) TCP 46557 > 80 seq(179265776) win(3620) ack 2798194779 
+NO 244  1303496667:113845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(486) TCP 80 > 46557 seq(2798194779) win(3967) ack 179265776 
+NO 245  1303496667:192845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30434) TCP 46557 > 80 seq(179265776) win(3084) ack 2798195315 
+NO 246  1303496667:209845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30435) TCP 46557 > 80 seq(179265776) win(4128) ack 2798195315 
+NO 247  1303496667:909845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(487) TCP 80 > 46557 seq(2798195315) win(3967) ack 179265776 
+NO 248  1303496667:919845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(485) TCP 80 > 46557 seq(2798195851) win(3967) ack 179265776 
+NO 249  1303496667:969845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30436) TCP 46557 > 80 seq(179265776) win(3592) ack 2798195851 
+NO 250  1303496668:3845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30437) TCP 46557 > 80 seq(179265776) win(3084) ack 2798196359 
+NO 251  1303496668:42845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30438) TCP 46557 > 80 seq(179265776) win(3620) ack 2798196359 
+NO 252  1303496668:739845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(486) TCP 80 > 46557 seq(2798196359) win(3967) ack 179265776 
+NO 253  1303496668:750845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(487) TCP 80 > 46557 seq(2798196895) win(3967) ack 179265776 
+NO 254  1303496668:795845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30439) TCP 46557 > 80 seq(179265776) win(3084) ack 2798196895 
+NO 255  1303496668:830845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30440) TCP 46557 > 80 seq(179265776) win(2548) ack 2798197431 
+NO 256  1303496668:866845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30441) TCP 46557 > 80 seq(179265776) win(3592) ack 2798197431 
+NO 257  1303496668:901845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30442) TCP 46557 > 80 seq(179265776) win(4128) ack 2798197431 
+NO 258  1303496669:533845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(488) TCP 80 > 46557 seq(2798197431) win(3967) ack 179265776 
+NO 259  1303496669:601845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30443) TCP 46557 > 80 seq(179265776) win(3592) ack 2798197967 
+NO 260  1303496669:634845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30444) TCP 46557 > 80 seq(179265776) win(4128) ack 2798197967 
+NO 261  1303496670:361845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(489) TCP 80 > 46557 seq(2798197967) win(3967) ack 179265776 
+NO 262  1303496670:371845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(490) TCP 80 > 46557 seq(2798198503) win(3967) ack 179265776 
+NO 263  1303496670:409845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30445) TCP 46557 > 80 seq(179265776) win(3592) ack 2798198503 
+NO 264  1303496670:428845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30446) TCP 46557 > 80 seq(179265776) win(3056) ack 2798199039 
+NO 265  1303496670:455845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30447) TCP 46557 > 80 seq(179265776) win(3592) ack 2798199039 
+NO 266  1303496670:488845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30448) TCP 46557 > 80 seq(179265776) win(4128) ack 2798199039 
+NO 267  1303496671:105845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(491) TCP 80 > 46557 seq(2798199039) win(3967) ack 179265776 
+NO 268  1303496671:115845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(492) TCP 80 > 46557 seq(2798199575) win(3967) ack 179265776 
+NO 269  1303496671:188845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30449) TCP 46557 > 80 seq(179265776) win(3592) ack 2798199575 
+NO 270  1303496671:224845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30450) TCP 46557 > 80 seq(179265776) win(3056) ack 2798200111 
+NO 271  1303496671:258845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30451) TCP 46557 > 80 seq(179265776) win(3592) ack 2798200111 
+NO 272  1303496671:291845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30452) TCP 46557 > 80 seq(179265776) win(4128) ack 2798200111 
+NO 273  1303496671:915845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(493) TCP 80 > 46557 seq(2798200111) win(3967) ack 179265776 
+NO 274  1303496671:925845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(494) TCP 80 > 46557 seq(2798200647) win(3967) ack 179265776 
+NO 275  1303496671:994845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30453) TCP 46557 > 80 seq(179265776) win(3592) ack 2798200647 
+NO 276  1303496672:28845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30454) TCP 46557 > 80 seq(179265776) win(3056) ack 2798201183 
+NO 277  1303496672:61845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30455) TCP 46557 > 80 seq(179265776) win(3592) ack 2798201183 
+NO 278  1303496672:95845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30456) TCP 46557 > 80 seq(179265776) win(4128) ack 2798201183 
+NO 279  1303496672:733845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(495) TCP 80 > 46557 seq(2798201183) win(3967) ack 179265776 
+NO 280  1303496672:798845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30457) TCP 46557 > 80 seq(179265776) win(3592) ack 2798201719 
+NO 281  1303496672:847845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30458) TCP 46557 > 80 seq(179265776) win(4128) ack 2798201719 
+NO 282  1303496673:512845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(496) TCP 80 > 46557 seq(2798201719) win(3967) ack 179265776 
+NO 283  1303496673:522845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(497) TCP 80 > 46557 seq(2798202255) win(3967) ack 179265776 
+NO 284  1303496673:599845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30459) TCP 46557 > 80 seq(179265776) win(3592) ack 2798202255 
+NO 285  1303496673:642845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30460) TCP 46557 > 80 seq(179265776) win(3092) ack 2798202755 
+NO 286  1303496673:669845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30461) TCP 46557 > 80 seq(179265776) win(3628) ack 2798202755 
+NO 287  1303496674:334845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(498) TCP 80 > 46557 seq(2798202755) win(3967) ack 179265776 
+NO 288  1303496674:344845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(499) TCP 80 > 46557 seq(2798203291) win(3967) ack 179265776 
+NO 289  1303496674:389845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30462) TCP 46557 > 80 seq(179265776) win(3092) ack 2798203291 
+NO 290  1303496674:420845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30463) TCP 46557 > 80 seq(179265776) win(2574) ack 2798203809 
+NO 291  1303496674:453845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30464) TCP 46557 > 80 seq(179265776) win(3610) ack 2798203809 
+NO 292  1303496675:108845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(500) TCP 80 > 46557 seq(2798203809) win(3967) ack 179265776 
+NO 293  1303496675:118845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(501) TCP 80 > 46557 seq(2798203951) win(3967) ack 179265776 
+NO 294  1303496675:174845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30465) TCP 46557 > 80 seq(179265776) win(3468) ack 2798203951 
+NO 295  1303496675:215845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30466) TCP 46557 > 80 seq(179265776) win(2932) ack 2798204487 
+NO 296  1303496675:295845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30467) TCP 46557 > 80 seq(179265776) win(3592) ack 2798204487 
+NO 297  1303496675:327845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30468) TCP 46557 > 80 seq(179265776) win(4128) ack 2798204487 
+NO 298  1303496676:11845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(502) TCP 80 > 46557 seq(2798204487) win(3967) ack 179265776 
+NO 299  1303496676:42845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(503) TCP 80 > 46557 seq(2798205023) win(3967) ack 179265776 
+NO 300  1303496676:103845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30469) TCP 46557 > 80 seq(179265776) win(3592) ack 2798205023 
+NO 301  1303496676:117845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30470) TCP 46557 > 80 seq(179265776) win(3056) ack 2798205559 
+NO 302  1303496676:157845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30471) TCP 46557 > 80 seq(179265776) win(3592) ack 2798205559 
+NO 303  1303496676:194845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30472) TCP 46557 > 80 seq(179265776) win(4128) ack 2798205559 
+NO 304  1303496676:784845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(504) TCP 80 > 46557 seq(2798205559) win(3967) ack 179265776 
+NO 305  1303496676:838845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30473) TCP 46557 > 80 seq(179265776) win(3592) ack 2798206095 
+NO 306  1303496676:907845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30474) TCP 46557 > 80 seq(179265776) win(4128) ack 2798206095 
+NO 307  1303496677:619845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(505) TCP 80 > 46557 seq(2798206095) win(3967) ack 179265776 
+NO 308  1303496677:689845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30475) TCP 46557 > 80 seq(179265776) win(3642) ack 2798206581 
+NO 309  1303496679:193845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(506) TCP 80 > 46557 seq(2798206581) win(3967) ack 179265776 
+NO 310  1303496679:244845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(507) TCP 80 > 46557 seq(2798207117) win(3967) ack 179265776 
+NO 311  1303496679:300845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30476) TCP 46557 > 80 seq(179265776) win(3106) ack 2798207117 
+NO 312  1303496679:338845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30477) TCP 46557 > 80 seq(179265776) win(2570) ack 2798207653 
+NO 313  1303496679:365845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30478) TCP 46557 > 80 seq(179265776) win(3592) ack 2798207653 
+NO 314  1303496679:409845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30479) TCP 46557 > 80 seq(179265776) win(4128) ack 2798207653 
+NO 315  1303496680:27845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(508) TCP 80 > 46557 seq(2798207653) win(3967) ack 179265776 
+NO 316  1303496680:76845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30480) TCP 46557 > 80 seq(179265776) win(3692) ack 2798208089 
+NO 317  1303496681:695845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(509) TCP 80 > 46557 seq(2798208089) win(3967) ack 179265776 
+NO 318  1303496681:742845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(510) TCP 80 > 46557 seq(2798208625) win(3967) ack 179265776 
+NO 319  1303496681:785845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30481) TCP 46557 > 80 seq(179265776) win(3156) ack 2798208625 
+NO 320  1303496681:886845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30482) TCP 46557 > 80 seq(179265776) win(2620) ack 2798209161 
+NO 321  1303496681:887845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30483) TCP 46557 > 80 seq(179265776) win(3592) ack 2798209161 
+NO 322  1303496681:892845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30484) TCP 46557 > 80 seq(179265776) win(4128) ack 2798209161 
+NO 323  1303496682:392845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(511) TCP 80 > 46557 seq(2798209161) win(3967) ack 179265776 
+NO 324  1303496682:461845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30485) TCP 46557 > 80 seq(179265776) win(3592) ack 2798209697 
+NO 325  1303496682:496845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30486) TCP 46557 > 80 seq(179265776) win(4128) ack 2798209697 
+NO 326  1303496683:309845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(512) TCP 80 > 46557 seq(2798209697) win(3967) ack 179265776 
+NO 327  1303496683:360845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(513) TCP 80 > 46557 seq(2798210233) win(3967) ack 179265776 
+NO 328  1303496683:411845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30487) TCP 46557 > 80 seq(179265776) win(3592) ack 2798210233 
+NO 329  1303496683:444845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30488) TCP 46557 > 80 seq(179265776) win(3056) ack 2798210769 
+NO 330  1303496683:476845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30489) TCP 46557 > 80 seq(179265776) win(3592) ack 2798210769 
+NO 331  1303496683:515845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30490) TCP 46557 > 80 seq(179265776) win(4128) ack 2798210769 
+NO 332  1303496684:61845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(514) TCP 80 > 46557 seq(2798210769) win(3967) ack 179265776 
+NO 333  1303496684:125845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(515) TCP 80 > 46557 seq(2798210863) win(3967) ack 179265776 
+NO 334  1303496684:133845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30491) TCP 46557 > 80 seq(179265776) win(4034) ack 2798210863 
+NO 335  1303496684:199845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30492) TCP 46557 > 80 seq(179265776) win(3498) ack 2798211399 
+NO 336  1303496684:236845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30493) TCP 46557 > 80 seq(179265776) win(4128) ack 2798211399 
+NO 337  1303496684:735845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(516) TCP 80 > 46557 seq(2798211399) win(3967) ack 179265776 
+NO 338  1303496684:799845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(517) TCP 80 > 46557 seq(2798211935) win(3967) ack 179265776 
+NO 339  1303496684:817845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30494) TCP 46557 > 80 seq(179265776) win(3592) ack 2798211935 
+NO 340  1303496684:849845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30495) TCP 46557 > 80 seq(179265776) win(4128) ack 2798211935 
+NO 341  1303496684:883845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30496) TCP 46557 > 80 seq(179265776) win(3592) ack 2798212471 
+NO 342  1303496684:917845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30497) TCP 46557 > 80 seq(179265776) win(4128) ack 2798212471 
+NO 343  1303496686:400845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(518) TCP 80 > 46557 seq(2798212471) win(3967) ack 179265776 
+NO 344  1303496686:464845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30498) TCP 46557 > 80 seq(179265776) win(3592) ack 2798213007 
+NO 345  1303496686:503845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30499) TCP 46557 > 80 seq(179265776) win(4128) ack 2798213007 
+NO 346  1303496687:186845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(519) TCP 80 > 46557 seq(2798213007) win(3967) ack 179265776 
+NO 347  1303496687:305845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30500) TCP 46557 > 80 seq(179265776) win(3592) ack 2798213543 
+NO 348  1303496687:346845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30501) TCP 46557 > 80 seq(179265776) win(4128) ack 2798213543 
+NO 349  1303496688:865845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(520) TCP 80 > 46557 seq(2798213543) win(3967) ack 179265776 
+NO 350  1303496688:964845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30502) TCP 46557 > 80 seq(179265776) win(3592) ack 2798214079 
+NO 351  1303496688:999845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30503) TCP 46557 > 80 seq(179265776) win(4128) ack 2798214079 
+NO 352  1303496689:703845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(521) TCP 80 > 46557 seq(2798214079) win(3967) ack 179265776 
+NO 353  1303496689:792845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30504) TCP 46557 > 80 seq(179265776) win(3592) ack 2798214615 
+NO 354  1303496689:830845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30505) TCP 46557 > 80 seq(179265776) win(4128) ack 2798214615 
+NO 355  1303496691:156845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(522) TCP 80 > 46557 seq(2798214615) win(3967) ack 179265776 
+NO 356  1303496691:219845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(523) TCP 80 > 46557 seq(2798214703) win(3967) ack 179265776 
+NO 357  1303496691:253845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30506) TCP 46557 > 80 seq(179265776) win(4040) ack 2798214703 
+NO 358  1303496691:327845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30507) TCP 46557 > 80 seq(179265776) win(3583) ack 2798215160 
+NO 359  1303496691:365845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30508) TCP 46557 > 80 seq(179265776) win(4128) ack 2798215160 
+NO 360  1303496692:753845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(524) TCP 80 > 46557 seq(2798215160) win(3967) ack 179265776 
+NO 361  1303496692:818845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(525) TCP 80 > 46557 seq(2798215215) win(3967) ack 179265776 
+NO 362  1303496692:832845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30509) TCP 46557 > 80 seq(179265776) win(4073) ack 2798215215 
+NO 363  1303496692:859845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30510) TCP 46557 > 80 seq(179265776) win(3537) ack 2798215751 
+NO 364  1303496692:901845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30511) TCP 46557 > 80 seq(179265776) win(4128) ack 2798215751 
+NO 365  1303496693:604845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(526) TCP 80 > 46557 seq(2798215751) win(3967) ack 179265776 
+NO 366  1303496693:678845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30512) TCP 46557 > 80 seq(179265776) win(3629) ack 2798216250 
+NO 367  1303496695:305845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(527) TCP 80 > 46557 seq(2798216250) win(3967) ack 179265776 
+NO 368  1303496695:416845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30513) TCP 46557 > 80 seq(179265776) win(3093) ack 2798216786 
+NO 369  1303496695:454845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30514) TCP 46557 > 80 seq(179265776) win(4128) ack 2798216786 
+NO 370  1303496696:146845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(528) TCP 80 > 46557 seq(2798216786) win(3967) ack 179265776 
+NO 371  1303496696:202845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(529) TCP 80 > 46557 seq(2798217322) win(3967) ack 179265776 
+NO 372  1303496696:259845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30515) TCP 46557 > 80 seq(179265776) win(3592) ack 2798217322 
+NO 373  1303496696:297845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30516) TCP 46557 > 80 seq(179265776) win(3056) ack 2798217858 
+NO 374  1303496696:337845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30517) TCP 46557 > 80 seq(179265776) win(3592) ack 2798217858 
+NO 375  1303496696:373845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30518) TCP 46557 > 80 seq(179265776) win(4128) ack 2798217858 
+NO 376  1303496697:557845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(530) TCP 80 > 46557 seq(2798217858) win(3967) ack 179265776 
+NO 377  1303496697:578845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30519) TCP 46557 > 80 seq(179265776) win(3592) ack 2798218394 
+NO 378  1303496697:616845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30520) TCP 46557 > 80 seq(179265776) win(4128) ack 2798218394 
+NO 379  1303496699:967845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(531) TCP 80 > 46557 seq(2798218394) win(3967) ack 179265776 
+NO 380  1303496700:17845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(532) TCP 80 > 46557 seq(2798218930) win(3967) ack 179265776 
+NO 381  1303496700:93845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30521) TCP 46557 > 80 seq(179265776) win(3592) ack 2798218930 
+NO 382  1303496700:126845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30522) TCP 46557 > 80 seq(179265776) win(3056) ack 2798219466 
+NO 383  1303496700:159845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30523) TCP 46557 > 80 seq(179265776) win(3592) ack 2798219466 
+NO 384  1303496700:193845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30524) TCP 46557 > 80 seq(179265776) win(4128) ack 2798219466 
+NO 385  1303496700:761845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(533) TCP 80 > 46557 seq(2798219466) win(3967) ack 179265776 
+NO 386  1303496700:814845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(534) TCP 80 > 46557 seq(2798220002) win(3967) ack 179265776 
+NO 387  1303496700:861845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30525) TCP 46557 > 80 seq(179265776) win(3592) ack 2798220002 
+NO 388  1303496700:895845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30526) TCP 46557 > 80 seq(179265776) win(3056) ack 2798220538 
+NO 389  1303496700:932845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30527) TCP 46557 > 80 seq(179265776) win(3592) ack 2798220538 
+NO 390  1303496700:970845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30528) TCP 46557 > 80 seq(179265776) win(4128) ack 2798220538 
+NO 391  1303496701:584845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(535) TCP 80 > 46557 seq(2798220538) win(3967) ack 179265776 
+NO 392  1303496701:658845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30529) TCP 46557 > 80 seq(179265776) win(3592) ack 2798221074 
+NO 393  1303496701:678845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30530) TCP 46557 > 80 seq(179265776) win(4128) ack 2798221074 
+NO 394  1303496704:818845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(536) TCP 80 > 46557 seq(2798221074) win(3967) ack 179265776 
+NO 395  1303496704:877845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(537) TCP 80 > 46557 seq(2798221610) win(3967) ack 179265776 
+NO 396  1303496704:890845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30531) TCP 46557 > 80 seq(179265776) win(3592) ack 2798221610 
+NO 397  1303496704:926845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30532) TCP 46557 > 80 seq(179265776) win(3056) ack 2798222146 
+NO 398  1303496704:968845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30533) TCP 46557 > 80 seq(179265776) win(3592) ack 2798222146 
+NO 399  1303496705:11845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30534) TCP 46557 > 80 seq(179265776) win(4128) ack 2798222146 
+NO 400  1303496705:588845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(538) TCP 80 > 46557 seq(2798222146) win(3967) ack 179265776 
+NO 401  1303496705:661845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30535) TCP 46557 > 80 seq(179265776) win(3595) ack 2798222679 
+NO 402  1303496707:166845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(539) TCP 80 > 46557 seq(2798222679) win(3967) ack 179265776 
+NO 403  1303496707:249845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30536) TCP 46557 > 80 seq(179265776) win(3059) ack 2798223215 
+NO 404  1303496707:291845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30537) TCP 46557 > 80 seq(179265776) win(4128) ack 2798223215 
+NO 405  1303496708:18845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(540) TCP 80 > 46557 seq(2798223215) win(3967) ack 179265776 
+NO 406  1303496708:69845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(541) TCP 80 > 46557 seq(2798223751) win(3967) ack 179265776 
+NO 407  1303496708:131845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30538) TCP 46557 > 80 seq(179265776) win(3592) ack 2798223751 
+NO 408  1303496708:175845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30539) TCP 46557 > 80 seq(179265776) win(3056) ack 2798224287 
+NO 409  1303496708:231845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30540) TCP 46557 > 80 seq(179265776) win(3592) ack 2798224287 
+NO 410  1303496708:265845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30541) TCP 46557 > 80 seq(179265776) win(4128) ack 2798224287 
+NO 411  1303496708:821845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(542) TCP 80 > 46557 seq(2798224287) win(3967) ack 179265776 
+NO 412  1303496708:881845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(543) TCP 80 > 46557 seq(2798224823) win(3967) ack 179265776 
+NO 413  1303496708:890845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30542) TCP 46557 > 80 seq(179265776) win(3592) ack 2798224823 
+NO 414  1303496708:917845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30543) TCP 46557 > 80 seq(179265776) win(4128) ack 2798224823 
+NO 415  1303496708:970845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30544) TCP 46557 > 80 seq(179265776) win(3592) ack 2798225359 
+NO 416  1303496708:995845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30545) TCP 46557 > 80 seq(179265776) win(4128) ack 2798225359 
+NO 417  1303496709:589845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(544) TCP 80 > 46557 seq(2798225359) win(3967) ack 179265776 
+NO 418  1303496709:668845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30546) TCP 46557 > 80 seq(179265776) win(3592) ack 2798225895 
+NO 419  1303496709:710845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30547) TCP 46557 > 80 seq(179265776) win(4128) ack 2798225895 
+NO 420  1303496710:367845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(545) TCP 80 > 46557 seq(2798225895) win(3967) ack 179265776 
+NO 421  1303496710:420845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(546) TCP 80 > 46557 seq(2798226431) win(3967) ack 179265776 
+NO 422  1303496710:482845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30548) TCP 46557 > 80 seq(179265776) win(3592) ack 2798226431 
+NO 423  1303496710:519845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30549) TCP 46557 > 80 seq(179265776) win(3056) ack 2798226967 
+NO 424  1303496710:562845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30550) TCP 46557 > 80 seq(179265776) win(3592) ack 2798226967 
+NO 425  1303496710:610845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30551) TCP 46557 > 80 seq(179265776) win(4128) ack 2798226967 
+NO 426  1303496711:160845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(547) TCP 80 > 46557 seq(2798226967) win(3967) ack 179265776 
+NO 427  1303496711:221845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(548) TCP 80 > 46557 seq(2798227503) win(3967) ack 179265776 
+NO 428  1303496711:232845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30552) TCP 46557 > 80 seq(179265776) win(3592) ack 2798227503 
+NO 429  1303496711:300845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30553) TCP 46557 > 80 seq(179265776) win(4128) ack 2798227503 
+NO 430  1303496711:335845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30554) TCP 46557 > 80 seq(179265776) win(3592) ack 2798228039 
+NO 431  1303496711:376845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30555) TCP 46557 > 80 seq(179265776) win(4128) ack 2798228039 
+NO 432  1303496711:958845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(549) TCP 80 > 46557 seq(2798228039) win(3967) ack 179265776 
+NO 433  1303496712:50845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30556) TCP 46557 > 80 seq(179265776) win(3592) ack 2798228575 
+NO 434  1303496712:89845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30557) TCP 46557 > 80 seq(179265776) win(4128) ack 2798228575 
+NO 435  1303496712:774845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(550) TCP 80 > 46557 seq(2798228575) win(3967) ack 179265776 
+NO 436  1303496712:864845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30558) TCP 46557 > 80 seq(179265776) win(3592) ack 2798229111 
+NO 437  1303496712:881845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30559) TCP 46557 > 80 seq(179265776) win(4128) ack 2798229111 
+NO 438  1303496714:367845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(551) TCP 80 > 46557 seq(2798229111) win(3967) ack 179265776 
+NO 439  1303496714:417845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(552) TCP 80 > 46557 seq(2798229647) win(3967) ack 179265776 
+NO 440  1303496714:483845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30560) TCP 46557 > 80 seq(179265776) win(3592) ack 2798229647 
+NO 441  1303496714:516845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30561) TCP 46557 > 80 seq(179265776) win(3056) ack 2798230183 
+NO 442  1303496714:549845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30562) TCP 46557 > 80 seq(179265776) win(3592) ack 2798230183 
+NO 443  1303496714:584845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30563) TCP 46557 > 80 seq(179265776) win(4128) ack 2798230183 
+NO 444  1303496715:173845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(553) TCP 80 > 46557 seq(2798230183) win(3967) ack 179265776 
+NO 445  1303496715:231845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(554) TCP 80 > 46557 seq(2798230319) win(3967) ack 179265776 
+NO 446  1303496715:242845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30564) TCP 46557 > 80 seq(179265776) win(3992) ack 2798230319 
+NO 447  1303496715:281845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30565) TCP 46557 > 80 seq(179265776) win(3456) ack 2798230855 
+NO 448  1303496715:315845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30566) TCP 46557 > 80 seq(179265776) win(4128) ack 2798230855 
+NO 449  1303496716:20845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(555) TCP 80 > 46557 seq(2798230855) win(3967) ack 179265776 
+NO 450  1303496716:147845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30567) TCP 46557 > 80 seq(179265776) win(3726) ack 2798231257 
+NO 451  1303496717:673845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(556) TCP 80 > 46557 seq(2798231257) win(3967) ack 179265776 
+NO 452  1303496717:742845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(557) TCP 80 > 46557 seq(2798231727) win(3967) ack 179265776 
+NO 453  1303496717:788845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30568) TCP 46557 > 80 seq(179265776) win(3256) ack 2798231727 
+NO 454  1303496717:837845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30569) TCP 46557 > 80 seq(179265776) win(2720) ack 2798232263 
+NO 455  1303496717:859845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30570) TCP 46557 > 80 seq(179265776) win(3592) ack 2798232263 
+NO 456  1303496717:902845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30571) TCP 46557 > 80 seq(179265776) win(4128) ack 2798232263 
+NO 457  1303496718:424845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(558) TCP 80 > 46557 seq(2798232263) win(3967) ack 179265776 
+NO 458  1303496718:525845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30572) TCP 46557 > 80 seq(179265776) win(3592) ack 2798232799 
+NO 459  1303496718:560845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30573) TCP 46557 > 80 seq(179265776) win(4128) ack 2798232799 
+NO 460  1303496719:961845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(559) TCP 80 > 46557 seq(2798232799) win(3967) ack 179265776 
+NO 461  1303496720:41845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30574) TCP 46557 > 80 seq(179265776) win(3592) ack 2798233335 
+NO 462  1303496720:87845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30575) TCP 46557 > 80 seq(179265776) win(4128) ack 2798233335 
+NO 463  1303496720:771845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(560) TCP 80 > 46557 seq(2798233335) win(3967) ack 179265776 
+NO 464  1303496720:821845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(561) TCP 80 > 46557 seq(2798233871) win(3967) ack 179265776 
+NO 465  1303496720:842845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30576) TCP 46557 > 80 seq(179265776) win(3592) ack 2798233871 
+NO 466  1303496720:875845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30577) TCP 46557 > 80 seq(179265776) win(3056) ack 2798234407 
+NO 467  1303496720:908845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30578) TCP 46557 > 80 seq(179265776) win(3592) ack 2798234407 
+NO 468  1303496720:942845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30579) TCP 46557 > 80 seq(179265776) win(4128) ack 2798234407 
+NO 469  1303496722:388845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(562) TCP 80 > 46557 seq(2798234407) win(3967) ack 179265776 
+NO 470  1303496722:423845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30580) TCP 46557 > 80 seq(179265776) win(3592) ack 2798234943 
+NO 471  1303496722:456845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30581) TCP 46557 > 80 seq(179265776) win(4128) ack 2798234943 
+NO 472  1303496723:173845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(563) TCP 80 > 46557 seq(2798234943) win(3967) ack 179265776 
+NO 473  1303496723:222845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(564) TCP 80 > 46557 seq(2798235479) win(3967) ack 179265776  F P
+NO 474  1303496723:248845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30582) TCP 46557 > 80 seq(179265776) win(3592) ack 2798235479 
+NO 475  1303496723:281845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30583) TCP 46557 > 80 seq(179265776) win(3592) ack 2798235618 
+NO 476  1303496723:314845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30584) TCP 46557 > 80 seq(179265776) win(3454) ack 2798235618 
+NO 477  1303496723:341845 /1.1.23.3->/1.1.12.1 protocol(6) priority(0)  hop(255)  offset(0) ident(30585) TCP 46557 > 80 seq(179265776) win(3454) ack 2798235618  F P
+NO 478  1303496723:923845 /1.1.12.1->/1.1.23.3 protocol(6) priority(0)  hop(254)  offset(0) ident(565) TCP 80 > 46557 seq(2798235618) win(3967) ack 179265777 
+1.PACKET SUMMARY
+ 
+2.SELECTED PACKET INFORMATION
+ 
+3.ANALYSIS
+
+4.Exit
+ 
+
+ENTER YOUR CHOICE
+2
+ENTER PACKET NO. 
+3
+pno is  3
+1.PACKET INFORMATION
+ 
+2.ETHERNET INFORMATION
+ 
+3.IP INFORMATION
+ 
+4.TCP INFORMATION
+ 
+5.HTTP INFORMATION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+1
+
+PACKET INFORMATION OF 3 :
+
+PACKET CAPTURE LENGTH: 215
+PACKET CAPTURE DATE: Fri Apr 22 11:23:49 PDT 2011
+1.PACKET INFORMATION
+ 
+2.ETHERNET INFORMATION
+ 
+3.IP INFORMATION
+ 
+4.TCP INFORMATION
+ 
+5.HTTP INFORMATION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+2
+
+ETHERNET PACKET INFORMATION: 
+
+FRAMETYPE: IP
+
+SOURCE MAC ADDRESS: c0:02:12:68:00:00
+
+DESTINATION MAC ADDRESS: c0:01:14:7c:00:01
+1.PACKET INFORMATION
+ 
+2.ETHERNET INFORMATION
+ 
+3.IP INFORMATION
+ 
+4.TCP INFORMATION
+ 
+5.HTTP INFORMATION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+3
+
+
+
+IP PACKET INFORMATION:
+
+VERSION: 4
+Type Of Service(TOS) PRIORITY: 0
+Type Of Service(TOS) THROUGHPUT: false
+Type Of Service(TOS) RELIABILITY: false
+LENGTH: 201
+IDENTIFICATION: 30279
+FRAGMENTATION - DONT FRAGMENT: false
+FRAGMENTATION - MORE FRAGMENT: false
+FRAGMENTATION - OFFSET: 0
+TTL: 255
+PROTOCOL: 6
+SOURCE HOST IP: 1.1.23.3
+DESTINATION HOST IP: 1.1.12.1
+1.PACKET INFORMATION
+ 
+2.ETHERNET INFORMATION
+ 
+3.IP INFORMATION
+ 
+4.TCP INFORMATION
+ 
+5.HTTP INFORMATION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+4
+
+TCP PACKET INFORMATION
+
+SOURCE PORT: 46557
+DESTINATION PORT: 80
+SEQUENCE NUMBER: 179265615
+ACK NUMBER: 2798152219
+URG FLAG: false
+ACK FLAG: true
+PSH FLAG: false
+RST FLAG: false
+SYN FLAG: false
+FIN FLAG: false
+WINDOW SIZE: 4128
+1.PACKET INFORMATION
+ 
+2.ETHERNET INFORMATION
+ 
+3.IP INFORMATION
+ 
+4.TCP INFORMATION
+ 
+5.HTTP INFORMATION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+5
+[User-Agent: cisco-IOS, Host: 1.1.12.1, Authorization: Basic YWRtaW46Y2lzY28=, Date: Fri, 01 Mar 2002 00:30:47 GMT, Connection: close]
+1.PACKET INFORMATION
+ 
+2.ETHERNET INFORMATION
+ 
+3.IP INFORMATION
+ 
+4.TCP INFORMATION
+ 
+5.HTTP INFORMATION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+6
+1.PACKET SUMMARY
+ 
+2.SELECTED PACKET INFORMATION
+ 
+3.ANALYSIS
+
+4.Exit
+ 
+
+ENTER YOUR CHOICE
+3
+
+1.PROTOCOL PIE-CHART
+ 
+2.SOURCE PACKET DISTRIBUTION
+ 
+3.DESTINATION PACKET DISTRIBUTION
+ 
+4.AVERAGE CAPTURED PACKET LENGTH
+ 
+5.DURATION OF TRANSMISSION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+1
+
+1.PROTOCOL PIE-CHART
+ 
+2.SOURCE PACKET DISTRIBUTION
+ 
+3.DESTINATION PACKET DISTRIBUTION
+ 
+4.AVERAGE CAPTURED PACKET LENGTH
+ 
+5.DURATION OF TRANSMISSION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+2
+AVERAGE PACKET LENGTH 464
+1.PROTOCOL PIE-CHART
+ 
+2.SOURCE PACKET DISTRIBUTION
+ 
+3.DESTINATION PACKET DISTRIBUTION
+ 
+4.AVERAGE CAPTURED PACKET LENGTH
+ 
+5.DURATION OF TRANSMISSION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+3
+AVERAGE PACKET LENGTH 696
+1.PROTOCOL PIE-CHART
+ 
+2.SOURCE PACKET DISTRIBUTION
+ 
+3.DESTINATION PACKET DISTRIBUTION
+ 
+4.AVERAGE CAPTURED PACKET LENGTH
+ 
+5.DURATION OF TRANSMISSION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+4
+AVERAGE PACKET LENGTH 928
+1.PROTOCOL PIE-CHART
+ 
+2.SOURCE PACKET DISTRIBUTION
+ 
+3.DESTINATION PACKET DISTRIBUTION
+ 
+4.AVERAGE CAPTURED PACKET LENGTH
+ 
+5.DURATION OF TRANSMISSION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+5
+SDATE: Fri Apr 22 11:23:49 PDT 2011
+EDATE: Fri Apr 22 11:25:23 PDT 2011
+
+DURATION OF TANSMISSION IS 0hrs 2mins 26secs
+
+1.PROTOCOL PIE-CHART
+ 
+2.SOURCE PACKET DISTRIBUTION
+ 
+3.DESTINATION PACKET DISTRIBUTION
+ 
+4.AVERAGE CAPTURED PACKET LENGTH
+ 
+5.DURATION OF TRANSMISSION
+ 
+6.BACK
+ 
+
+ENTER YOUR CHOICE
+6
